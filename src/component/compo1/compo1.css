@@ -19,7 +19,7 @@
       order: 3;
     }
 
-    @media(min-width:768px){
+    @media(min-width:468px){
       .container-1{
         display: flex;
       }

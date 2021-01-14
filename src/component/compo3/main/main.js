@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+
 
 function Main() {
   return (
-    <div className='box-2'>
-    <h3>box two</h3>
+    <div className='container-box-3'>
+    <h3>BOx Nine</h3>
       <p>Lorem, ipsum dolor  Repudiandae.</p>
       <p>Lorem, ipsum dolor  Repudiandae.</p>
       

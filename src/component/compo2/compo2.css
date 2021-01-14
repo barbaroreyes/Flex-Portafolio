@@ -6,7 +6,7 @@
    .container-box-2{
      flex-basis: 27%;
    } 
-   @media(min-width:768px){
+   @media(min-width:468px){
     .container-2{
       display: flex;
       justify-content: space-around;

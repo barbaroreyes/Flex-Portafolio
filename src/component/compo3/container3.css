@@ -1,0 +1,14 @@
+.container-3{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
+.container-3 div{
+    border: 1px #ccc solid;
+    padding: 10px;
+    }
+    .container-box-3{
+        flex-basis:12% ;
+        
+        
+    }
