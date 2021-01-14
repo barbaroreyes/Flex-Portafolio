@@ -1,0 +1,19 @@
+
+ .container-2 div{
+  border: 1px #ccc solid;
+  padding: 10px;
+  }
+   .container-box-2{
+     flex-basis: 27%;
+   } 
+   @media(min-width:768px){
+    .container-2{
+      display: flex;
+      justify-content: space-around;
+    }
+   }
+
+
+    
+    
+  
