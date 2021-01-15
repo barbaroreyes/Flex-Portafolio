@@ -3,14 +3,11 @@ import React from 'react'
 function Header() {
   return (
     <div className='container-box-2'>
-    <h3>box four</h3>
-    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint fugiat adipisci ex? 
-    Voluptatum ad amet, aliquid beatae voluptates cumque. Tenetur debitis vero voluptates nam 
-    consectetur expedita sint facere perferendis natus suscipit non ullam, deserunt quod animi 
-    consequatur atque odit eos impedit. Voluptatum nesciunt pariatur, totam explicabo nihil veritatis. 
-    Aspernatur, in possimus vel cupiditate tempore a! Numquam tempora iste modi? Reprehenderit 
-    facilis ducimus
-     molestias ab iste dolore ut earum mollitia voluptates.</p>  
+    <h3>Hello</h3>
+     <p> I am Barbaro and after having graduated from technical school in Cuba for a long time,
+     my job was to fix desktop computers, but from a very young age I felt the desire to learn the magic of
+     programming until it became an inescapable desire for almost 3 years I have lived in this beautiful 
+     city of Austin</p> 
     </div>
   )
 }
