@@ -3,9 +3,17 @@
    text-align:center ;
   }
    .container-box-2{
-     flex-basis: 27%;
+     flex-basis: 29%;
    } 
-   
+   img{
+    width: 250px;
+    border-radius: 160px ;
+   }
+   button{
+     width: 150px;
+     margin: 10px;
+     border-radius: 10px;
+   }
    @media(min-width:468px){
     .container-2{
       display: flex;
