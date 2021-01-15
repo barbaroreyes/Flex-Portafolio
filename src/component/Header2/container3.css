@@ -1,0 +1,32 @@
+.container-3{
+    display: flex; 
+   flex-wrap: wrap;
+   justify-content: space-between; 
+   text-align: center;
+}
+a{
+    color: rgb(248, 213, 213);
+}
+.container-3 div{
+  
+    
+    }
+    .container-box-3{
+        flex-basis:30% ;
+        
+        
+    }
+    .screen-shot{
+        width: 100%;
+    }
+    @media(min-width:468px){
+        .container-3{
+            display: flex; 
+           /* flex-wrap: wrap;
+           justify-content: space-between;  */
+           
+        }
+        .screen-shot{
+            width: 300px;
+        }
+    }
