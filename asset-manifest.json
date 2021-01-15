@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Flex-Portafolio/static/css/main.faa515b9.chunk.css",
-    "main.js": "/Flex-Portafolio/static/js/main.e94fd04e.chunk.js",
-    "main.js.map": "/Flex-Portafolio/static/js/main.e94fd04e.chunk.js.map",
+    "main.css": "/Flex-Portafolio/static/css/main.8b3d24a7.chunk.css",
+    "main.js": "/Flex-Portafolio/static/js/main.ffe6faf7.chunk.js",
+    "main.js.map": "/Flex-Portafolio/static/js/main.ffe6faf7.chunk.js.map",
     "runtime-main.js": "/Flex-Portafolio/static/js/runtime-main.e58fd124.js",
     "runtime-main.js.map": "/Flex-Portafolio/static/js/runtime-main.e58fd124.js.map",
     "static/js/2.cdea88a9.chunk.js": "/Flex-Portafolio/static/js/2.cdea88a9.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.3ba1233b.chunk.js": "/Flex-Portafolio/static/js/3.3ba1233b.chunk.js",
     "static/js/3.3ba1233b.chunk.js.map": "/Flex-Portafolio/static/js/3.3ba1233b.chunk.js.map",
     "index.html": "/Flex-Portafolio/index.html",
-    "static/css/main.faa515b9.chunk.css.map": "/Flex-Portafolio/static/css/main.faa515b9.chunk.css.map",
+    "static/css/main.8b3d24a7.chunk.css.map": "/Flex-Portafolio/static/css/main.8b3d24a7.chunk.css.map",
     "static/js/2.cdea88a9.chunk.js.LICENSE.txt": "/Flex-Portafolio/static/js/2.cdea88a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e58fd124.js",
     "static/js/2.cdea88a9.chunk.js",
-    "static/css/main.faa515b9.chunk.css",
-    "static/js/main.e94fd04e.chunk.js"
+    "static/css/main.8b3d24a7.chunk.css",
+    "static/js/main.ffe6faf7.chunk.js"
   ]
 }
