@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Flex-Portafolio/static/css/main.6fe5a982.chunk.css",
-    "main.js": "/Flex-Portafolio/static/js/main.8a5ee982.chunk.js",
-    "main.js.map": "/Flex-Portafolio/static/js/main.8a5ee982.chunk.js.map",
+    "main.css": "/Flex-Portafolio/static/css/main.635b6dbe.chunk.css",
+    "main.js": "/Flex-Portafolio/static/js/main.8d40af5e.chunk.js",
+    "main.js.map": "/Flex-Portafolio/static/js/main.8d40af5e.chunk.js.map",
     "runtime-main.js": "/Flex-Portafolio/static/js/runtime-main.e58fd124.js",
     "runtime-main.js.map": "/Flex-Portafolio/static/js/runtime-main.e58fd124.js.map",
     "static/js/2.cdea88a9.chunk.js": "/Flex-Portafolio/static/js/2.cdea88a9.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.3ba1233b.chunk.js": "/Flex-Portafolio/static/js/3.3ba1233b.chunk.js",
     "static/js/3.3ba1233b.chunk.js.map": "/Flex-Portafolio/static/js/3.3ba1233b.chunk.js.map",
     "index.html": "/Flex-Portafolio/index.html",
-    "static/css/main.6fe5a982.chunk.css.map": "/Flex-Portafolio/static/css/main.6fe5a982.chunk.css.map",
+    "static/css/main.635b6dbe.chunk.css.map": "/Flex-Portafolio/static/css/main.635b6dbe.chunk.css.map",
     "static/js/2.cdea88a9.chunk.js.LICENSE.txt": "/Flex-Portafolio/static/js/2.cdea88a9.chunk.js.LICENSE.txt",
     "static/media/work.43507cae.jpg": "/Flex-Portafolio/static/media/work.43507cae.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e58fd124.js",
     "static/js/2.cdea88a9.chunk.js",
-    "static/css/main.6fe5a982.chunk.css",
-    "static/js/main.8a5ee982.chunk.js"
+    "static/css/main.635b6dbe.chunk.css",
+    "static/js/main.8d40af5e.chunk.js"
   ]
 }
