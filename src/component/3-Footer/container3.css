@@ -5,11 +5,14 @@
    text-align: center;
 }
 .container-3 div{
-    border: 1px #ccc solid;
-    padding: 10px;
+    
+   
     }
     .container-box-3{
         flex-basis:12% ;
         
         
+    }
+    .screen-shot{
+        width: 400px;
     }
