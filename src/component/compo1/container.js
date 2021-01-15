@@ -6,7 +6,7 @@ import './compo1.css'
 
 const Header = () => {
   return (
-    <main className='container-1'>
+    <main  className='container-1'>
     <Head/>
     <Main/>
     <Footer/>

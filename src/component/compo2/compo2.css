@@ -1,11 +1,13 @@
 
  .container-2 div{
-  border: 1px #ccc solid;
   padding: 10px;
   }
    .container-box-2{
-     flex-basis: 27%;
+     flex-basis: 20%;
    } 
+   i{
+     
+   }
    @media(min-width:468px){
     .container-2{
       display: flex;

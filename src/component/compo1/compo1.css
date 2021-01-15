@@ -1,9 +1,19 @@
-
+ .container-1{
+   box-sizing: border-box;
+   text-align: center;
+ }
 
 .container-1 div{
-    border: 1px #ccc solid;
-    padding: 10px;
     
+    padding: 10px;
+    text-align: center;
+    }
+    li{list-style: none;}
+
+    a{
+      text-decoration: none;
+      flex-direction: row;
+      color:white;
     }
     
     .box-1{
@@ -22,6 +32,9 @@
     @media(min-width:468px){
       .container-1{
         display: flex;
+      }ul{
+        display: flex;
+        justify-content: space-between;
       }
       
       
