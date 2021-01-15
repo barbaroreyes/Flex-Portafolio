@@ -3,7 +3,7 @@ import React from 'react'
 function Header() {
   return (
     <div className='container-box-2'>
-    <h3>Hello</h3>
+    <h2>Hello</h2>
      <p>Hello, I am Barbaro.  after having graduated 
      from technical school in Cuba for a long time, 
       my job was to fix desktop computers, but from a very young age. 
