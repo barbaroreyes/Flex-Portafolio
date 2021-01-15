@@ -1,4 +1,3 @@
-import React from './node_modules/react';
 import robots from '../../img/ecomerce.png'
 
 function Footer() {
