@@ -1,13 +1,11 @@
 
  .container-2 div{
-  padding: 10px;
+   text-align:center ;
   }
    .container-box-2{
-     flex-basis: 20%;
+     flex-basis: 27%;
    } 
-   i{
-     
-   }
+   
    @media(min-width:468px){
     .container-2{
       display: flex;
