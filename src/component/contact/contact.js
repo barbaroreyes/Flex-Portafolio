@@ -4,10 +4,19 @@ import './contact.css';
         render() {
             return (
                   <form className='contact'>
-                  <label >name</label>
-                  <input/>
-                  <label>Email</label>
-                  <input/>
+                  
+                  <div className='contact'>
+                  <div className ='contact-1'>
+                  <label>Name:</label>
+                  <input type='text' name='name'/>
+                  <label>Email:</label>
+                  <input type='text'/>
+                  <label>Message:</label>
+                  <textarea></textarea>
+                  <button type="submit">Submit</button>
+                  </div>
+                  </div>
+               
                        <div className='p-change'>
                        <p className='p-change'><i class="fas fa-envelope-square">
                        <a href='barbarotrabajo@gmail.com'>
