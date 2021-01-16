@@ -67,7 +67,7 @@ box-shadow: 5px -5px 15px #888;
   background: rgb(243, 235, 235);
   color: #131414;
 }
-2
+
 @media (max-width:1070px){
   .columna{
   width: 45%;
@@ -89,7 +89,7 @@ box-shadow: 5px -5px 15px #888;
 
 }
 
-@media(min-width:468px){
+@media(min-width:768px){
 ul{
   display: flex;
   justify-content: space-between;
