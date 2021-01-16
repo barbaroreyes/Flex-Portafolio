@@ -1,22 +1,17 @@
 import React from 'react';
-import './project.css'
+import './project.css';
+import Robots from '../img/robots.PNG';
+import Ecom from '../img/ecomerce.PNG'
 
 function project() {
      return (
           <div>
-          <header>
-          <ul>
-          <li><a href="https://barbaroreyes.github.io/Flex-Portafolio/">Home</a></li>
-        <li><a href="https://barbaroreyes.github.io/First-Responsive-WebsiteBarbaro/">About</a></li>
-        <li><a href="https://barbaroreyes.github.io/tablas/">Portfolio</a></li>
-        <li><a href="https://barbaroreyes.github.io/NASA-Page/?fname=barbaro">Contact</a></li>
-        </ul>
-      </header>
+         
       <section class="container flex text-center">
           <div class="columna">
-              <h2>Robots-FRIENDS</h2>
+              <h2>Robots-Friends</h2>
               <p> THIS  APP LOCATES YOUR FRIEND IN THE DATABASE </p>
-              <img src="./robots.PNG" alt=""/>
+              <img src={Robots} alt=""/>
               <a  class="btn" href="https://github.com/barbaroreyes/newT2">Github</a>
               <hr/>
               <a  class="btn" href="https://robotsapp.netlify.app/">WebSite</a>
@@ -24,7 +19,7 @@ function project() {
           <div class="columna">
                   <h2>E-Comerce</h2>
                   <p>A GREAT SHOP === LOW PRICES & FREE SHIPPING</p>
-                  <img src="./ecomerce.PNG" alt=""/>
+                  <img src={Ecom} alt=""/>
                   <a  class="btn" href="https://github.com/barbaroreyes/EcomerceCLone">Github</a>
                   <hr/>
                   <a  class="btn" href="https://hungry-einstein-27344a.netlify.app/">WebSite</a>
