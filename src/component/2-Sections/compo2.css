@@ -7,7 +7,8 @@
    }
    img{
     width: 250px;
-     
+    box-shadow: 5px -5px 15px #888;
+    border-radius: 5px;
    }
    button{
      width: 150px;

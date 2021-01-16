@@ -2,6 +2,7 @@ import './App.css';
 import Header from './component/1-Header-Nav/container';
 import  Main from './component/2-Sections/compo2';
 import Project from './component/project/project';
+import About from './component/about/about'
 
 
 
@@ -13,6 +14,7 @@ function App() {
       
       <Header/>
       <Main/>
+      <About/>
       <Project/>
       
 

@@ -1,7 +1,7 @@
 import React from 'react';
 import './project.css';
-import Robots from '../project/robots.PNG';
-import Ecom from '../project/ecomerce.PNG'
+import Robots from '../img/robots.PNG';
+import Ecom from '../img/ecomerce.PNG'
 
 function project() {
      return (
@@ -9,7 +9,7 @@ function project() {
          
       <section class="container flex text-center">
           <div class="columna">
-              <h2>Robots-FRIENDS</h2>
+              <h2>Robots-Friends</h2>
               <p> THIS  APP LOCATES YOUR FRIEND IN THE DATABASE </p>
               <img src={Robots} alt=""/>
               <a  class="btn" href="https://github.com/barbaroreyes/newT2">Github</a>

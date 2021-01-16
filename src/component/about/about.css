@@ -1,0 +1,120 @@
+body{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background: black;
+    background: linear-gradient(to left, rgb(86, 113, 235), #131414);
+    position: relative;
+}
+.grid{
+   width: 100%;
+   height:auto;
+   display: grid;
+   grid-template: 300px 300px ;  
+   
+}
+.one{
+    grid-row: 1;
+    grid-column: 1/4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;  
+}
+
+.two{
+    grid-row: 2/4;
+    grid-column: 1/4;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     
+}
+.all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #fff;
+    margin: 40px;
+    text-align: center;
+    flex-basis: 25.2% ;
+    height:300px ;
+    
+   
+   
+}
+ .all1{
+    background-image: url('https://images.unsplash.com/photo-1476067897447-d0c5df27b5df?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
+    
+}
+.all2{
+    background-image: url('https://images.unsplash.com/photo-1515516089376-88db1e26e9c0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8ZmFtaWx5JTIwaG9tZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60');
+}
+.all3{
+    background-image: url('https://images.unsplash.com/photo-1573566857272-57abcfb03c5a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
+}
+
+.title{
+    font-size: 19px;
+}
+.text0{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    width: 36%;
+    height: 19px;
+    min-height: 19px;
+    margin: 6px;
+}
+
+
+li{
+    list-style: none;
+    color: #fff;
+    margin: 10px;
+}
+a{ text-decoration: none;
+    color: #fff;
+}
+
+ @media (max-width: 576px) { 
+     
+     .one{
+       
+        text-align: center;
+        box-shadow: 3px 3px  solid black;
+        font-size: 1rem;
+     }
+     .text1{
+         text-shadow: 10px 4px black;
+     }
+     
+     .two{
+        display: flex; 
+        flex-direction: column ;
+        
+        
+     }
+     .all{
+         text-align: center;
+        
+         
+     }
+     
+  } 
+ 
+ @media(min-width:468px){
+    ul{
+      display: flex;
+      justify-content: center;
+      
+    }
+    .all{
+        text-align: center;  
+        box-shadow: 5px -5px 15px #888;
+    border-radius: 5px;
+    }
+    
+  }
