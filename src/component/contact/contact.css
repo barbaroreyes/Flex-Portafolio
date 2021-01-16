@@ -5,8 +5,25 @@
 a{
   text-decoration: none;
 }
-p{
-  width:50%;
-  margin:auto ;
-  padding:1em ;
+.contact{
+  display: flex;
+  justify-content: center;
+  align-items: center ;
+   margin: 20px;
+   border: 1px solid whitesmoke;
+  
+}
+.p-change{
+  flex-basis: 20%;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+
+}
+@media(max-width : 768px){
+  .contact{
+   display: flex;
+  flex-direction: column;
+  }
 }
