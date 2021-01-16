@@ -70,9 +70,7 @@ box-shadow: 5px -5px 15px #888;
   background: rgb(243, 235, 235);
   color: #131414;
 }
-img{
-width:100%;
-}
+2
 @media (max-width:1070px){
   .columna{
   width: 45%;

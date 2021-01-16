@@ -1,7 +1,7 @@
 import React from 'react';
-import Head from './header/header';
-import Footer from './footer/footer';
-import SectionMain from './main/main';
+import Head from './1-Hello/intro';
+import Footer from './2-info/main';
+import SectionMain from './3-About Me/footer';
 import './compo2.css'
     
 
@@ -9,8 +9,9 @@ function Main() {
   return (
     <div className='container-2'>
       <Head/>
-      <SectionMain/>
       <Footer/>
+      <SectionMain/>
+      
     </div>
   );
 }
