@@ -9,9 +9,7 @@ function Footer() {
       <Head/>
       <Foot/>
       <Main/>
-      <Head/>
-      <Foot/>
-      <Main/>
+      
     </div>
   )
 }
