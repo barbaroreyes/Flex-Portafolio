@@ -1,7 +1,7 @@
 import React from 'react'
-import Head from './header/header';
-import Foot from './footer/footer';
-import Main from './main/main';
+import Head from './1-Picture/pictu1';
+import Foot from './2-Picture/header';
+import Main from './3-picture/main';
 import './container3.css'
 function Footer() {
   return (
@@ -9,10 +9,7 @@ function Footer() {
       <Head/>
       <Foot/>
       <Main/>
-      <Head/>
-      <Foot/>
-      <Main/>
-    </div>
+     </div>
   )
 }
 
