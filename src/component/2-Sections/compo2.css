@@ -12,8 +12,12 @@
    }
    button{
      width: 150px;
-     margin: 10px;
-     border-radius: 10px;
+    margin: 4px;
+     border-radius: 5px;
+   }
+   .socials-liks{
+     display: flex;
+     justify-content: space-around;
    }
    @media(min-width:468px){
     .container-2{

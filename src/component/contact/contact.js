@@ -22,7 +22,7 @@ import './contact.css';
                        <a href='barbarotrabajo@gmail.com'>
                        <p><button><a className='nav' 
                        href="mailto:barbarotrabajo@gmail.com?subject= Hey Barbaro, I'm interested in hearing from you! "
-                       target='_black'>email</a></button>
+                       target='_black'>Email Me</a></button>
                        </p></a></i></p></div>
 
                        <div className='p-change'>
