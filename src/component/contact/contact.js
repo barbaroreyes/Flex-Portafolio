@@ -3,7 +3,7 @@ import './contact.css';
   export default class Contact extends Component {
         render() {
             return (
-                  <form type='submit'>
+                  <form type='submit' className='contact' >
                   <div className='contact'>
                   <div className ='contact-1'>
                   <label>Name:</label>
