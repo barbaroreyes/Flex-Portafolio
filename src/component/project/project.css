@@ -53,10 +53,7 @@ width: 23%;
 box-shadow: 5px -5px 15px #888;
  
 }
-.precio{
-  font-size: 50px;
-  color: #00dac7;
-}
+
 .btn{
   display: block;
   background: linear-gradient(to left, rgb(108, 132, 238), #252525);

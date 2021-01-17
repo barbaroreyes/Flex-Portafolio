@@ -11,9 +11,12 @@
     border-radius: 5px;
    }
    button{
-     width: 150px;
-    margin: 4px;
-     border-radius: 5px;
+    width: 150px;
+    margin: 7px;
+    border-radius: 5px;
+    color: rgb(190, 190, 204);
+    background: black;
+    
    }
    .socials-liks{
      display: flex;

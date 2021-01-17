@@ -13,7 +13,7 @@ function Main() {
           </p>
           <hr className='line'/>
           <h3>you don't climb the mountain you never got to </h3>
-         <button>Contact</button>
+         <button >Contact</button>
           <div className='socials-liks'>
            <a className ='link' href="https://www.linkedin.com/in/barbaro-reyes-b023aa1a7/" 
                rel='noopener noreferrer' target='_black'><i 
