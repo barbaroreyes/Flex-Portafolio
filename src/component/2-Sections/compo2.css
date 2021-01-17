@@ -11,12 +11,11 @@
     border-radius: 5px;
    }
    button{
-    width: 150px;
-    
+    width: 80px;
     border-radius: 5px;
     color: rgb(190, 190, 204);
     background: black;
-    
+    margin: 10px;
    }
    .pictu{
     width:250px;
@@ -33,6 +32,7 @@
       margin: 0px;
     }button{
       margin: 10px;
+      
   }
    }
 
