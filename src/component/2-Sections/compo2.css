@@ -11,16 +11,29 @@
     border-radius: 5px;
    }
    button{
-     width: 150px;
-     margin: 10px;
-     border-radius: 10px;
+    width: 80px;
+    border-radius: 5px;
+    color: rgb(190, 190, 204);
+    background: black;
+    margin: 10px;
+   }
+   .pictu{
+    width:250px;
+    margin:10px
+   }
+   .socials-liks{
+     display: flex;
+     justify-content: space-around;
    }
    @media(min-width:468px){
     .container-2{
       display: flex;
       justify-content: space-around;
       margin: 0px;
-    }
+    }button{
+      margin: 10px;
+      
+  }
    }
 
 
