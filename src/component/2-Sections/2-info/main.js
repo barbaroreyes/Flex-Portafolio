@@ -5,7 +5,7 @@ function Main() {
   return (
     <section>
     <div  className='container-box-2'>
-          <img style={{width:'250px'}}  alt ='' src={work}/>
+          <img className='pictu'  alt ='' src={work}/>
           <p className='parraph'><i class="fab fa-html5">
           </i>HTML/CSS<i className=" fab fa-css3-alt">
           </i>|JavaScript<i class="fab fa-node-js">

@@ -12,11 +12,15 @@
    }
    button{
     width: 150px;
-    margin: 7px;
+    
     border-radius: 5px;
     color: rgb(190, 190, 204);
     background: black;
     
+   }
+   .pictu{
+    width:250px;
+    margin:10px
    }
    .socials-liks{
      display: flex;
@@ -27,7 +31,9 @@
       display: flex;
       justify-content: space-around;
       margin: 0px;
-    }
+    }button{
+      margin: 10px;
+  }
    }
 
 

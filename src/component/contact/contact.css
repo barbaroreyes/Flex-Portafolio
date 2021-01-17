@@ -22,9 +22,11 @@
 @media(max-width : 768px){
   .contact{
    display: flex;
-  flex-direction: column;
+   flex-direction: column;
   
   }.p-change{
-    margin: 0px;
+    margin: 2px;
+  }button{
+      margin: 3px;
   }
 }
