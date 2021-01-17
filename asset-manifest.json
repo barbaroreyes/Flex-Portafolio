@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Flex-Portafolio/static/css/main.d346ec7a.chunk.css",
-    "main.js": "/Flex-Portafolio/static/js/main.1ad1b088.chunk.js",
-    "main.js.map": "/Flex-Portafolio/static/js/main.1ad1b088.chunk.js.map",
+    "main.css": "/Flex-Portafolio/static/css/main.9d9ffe2a.chunk.css",
+    "main.js": "/Flex-Portafolio/static/js/main.2453fd01.chunk.js",
+    "main.js.map": "/Flex-Portafolio/static/js/main.2453fd01.chunk.js.map",
     "runtime-main.js": "/Flex-Portafolio/static/js/runtime-main.a83955f3.js",
     "runtime-main.js.map": "/Flex-Portafolio/static/js/runtime-main.a83955f3.js.map",
     "static/js/2.8583dae4.chunk.js": "/Flex-Portafolio/static/js/2.8583dae4.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.ba333c48.chunk.js": "/Flex-Portafolio/static/js/3.ba333c48.chunk.js",
     "static/js/3.ba333c48.chunk.js.map": "/Flex-Portafolio/static/js/3.ba333c48.chunk.js.map",
     "index.html": "/Flex-Portafolio/index.html",
-    "static/css/main.d346ec7a.chunk.css.map": "/Flex-Portafolio/static/css/main.d346ec7a.chunk.css.map",
+    "static/css/main.9d9ffe2a.chunk.css.map": "/Flex-Portafolio/static/css/main.9d9ffe2a.chunk.css.map",
     "static/js/2.8583dae4.chunk.js.LICENSE.txt": "/Flex-Portafolio/static/js/2.8583dae4.chunk.js.LICENSE.txt",
     "static/media/ecomerce.de2ef683.PNG": "/Flex-Portafolio/static/media/ecomerce.de2ef683.PNG",
     "static/media/robots.deda1e05.PNG": "/Flex-Portafolio/static/media/robots.deda1e05.PNG",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.a83955f3.js",
     "static/js/2.8583dae4.chunk.js",
-    "static/css/main.d346ec7a.chunk.css",
-    "static/js/main.1ad1b088.chunk.js"
+    "static/css/main.9d9ffe2a.chunk.css",
+    "static/js/main.2453fd01.chunk.js"
   ]
 }
