@@ -42,7 +42,7 @@ function project() {
           <div class="columna">
              <h2>Table Four</h2>
              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et soluta
-             molestiae enim</p>
+               molestiae enim</p>
              <h2>Skyll:</h2>
              <img src="https://images.unsplash.com/photo-1572177812156-58036aae439c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cHJvamVjdHN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt=""/>  
              <a  class="btn" href="#GIthub">Github</a>

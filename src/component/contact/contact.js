@@ -7,7 +7,7 @@ import './contact.css';
                   <div class='contact'>
                   <div class ='contact-1'>
                   <label>Name:</label>
-                  <input type='text' name='name' r/>
+                  <input type='text' name='name' />
                   <label>Email:</label>
                   <input type='text'  required/>
                   <label>Message:</label>
