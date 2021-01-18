@@ -84,18 +84,14 @@ width:100%;
   width: 45%;
   margin: 5px;
 } 
-.precio{
-  color:red;
-}
+
 }
 @media (max-width:400px){
   .columna{
   width: 100%;
   margin: 5px;
 } 
-.precio{
-  color:red;
-}
+
 }
 
 @media(min-width:468px){

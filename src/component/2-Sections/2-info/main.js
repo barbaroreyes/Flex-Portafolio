@@ -6,10 +6,10 @@ function Main() {
     <section>
     <div  className='container-box-2'>
           <img className='pictu'  alt ='' src={work}/>
-          <p className='parraph'><i class="fab fa-html5">
+          <p className='parraph'><i className="fab fa-html5">
           </i>HTML/CSS<i className=" fab fa-css3-alt">
-          </i>|JavaScript<i class="fab fa-node-js">
-          </i>|React-Redux<i class="fab fa-react"></i>|
+          </i>|JavaScript<i className="fab fa-node-js">
+          </i>|React-Redux<i className="fab fa-react"></i>|
           </p>
           <hr className='line'/>
           <h3>you don't climb the mountain you never got to </h3>
@@ -24,11 +24,10 @@ function Main() {
            <a className ='link'href="http://google.com"
               rel='noopener noreferrer' target='_black'>
              <i className="  fab fa-facebook-square"></i></a>
-          </div>
-          
-          <hr className='line'/>
+          </div><hr className='line'/>
           
       </div>
+      
    </section>
   )
 }

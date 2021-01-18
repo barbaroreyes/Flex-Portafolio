@@ -8,19 +8,17 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  
-}
+  }
+
 .p-change{
   flex-basis: 17%;
  display: flex;
  justify-content: center;
  align-items: center;
- text-align: center;
- 
+ text-align: center; 
 }
-.nav{
-  color: #fff;
-}
+
+.nav{color: #fff;}
 @media(max-width : 468px){
   .contact{
    display: flex;

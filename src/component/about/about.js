@@ -5,11 +5,7 @@ function about() {
         <div>
        
     <div class="grid">
-       
-      
-       
-
-      <div class="two">
+        <div class="two">
           <section class=" all all1">
               <div class="box box1"></div>
               <h1 class="title">I Enjoy</h1>
@@ -23,7 +19,7 @@ function about() {
                     <div class="box box3"></div>
                     <h1 class="title">Play</h1>
                     <p class="text0">I love to play volleyball and guitar</p>
-                </section>
+            </section>
       </div>
 
        
