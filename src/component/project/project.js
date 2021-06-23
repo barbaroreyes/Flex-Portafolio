@@ -1,7 +1,7 @@
 import React from 'react';
 import './project.css';
-import Robots from '../img/robots.PNG';
-import Ecom from '../img/ecomerce.PNG';
+import Robots from '../img/robots.png';
+import Ecom from '../img/ecomerce.png';
 import Logo from '../img/logo192.png'
 
 function project() {
