@@ -4,6 +4,7 @@ import Robots from '../img/robots.png';
 import Ecom from '../img/ecomerce.png';
 import Logo from '../img/logo192.png'
 import Dog from '../img/do.png';
+import Mp from '../img/Media_player.png'
 
 function project() {
      return (
@@ -18,7 +19,7 @@ function project() {
               <img src={Robots} alt=""/>
              <a  class="btn" href="https://github.com/barbaroreyes/newT2">Github</a>
               <hr/>
-              <a  class="btn" href="https://robotsapp.netlify.app/">WebSite</a>
+              <a  class="btn" href="https://master.dvyvkfnmu8g3u.amplifyapp.com/">WebSite</a>
           </div>
           <div class="columna">
                   <h2>E-Comerce</h2>
@@ -40,14 +41,14 @@ function project() {
                start <a  class="btn" href="https://main.d20zwbvpcwy8fb.amplifyapp.com/">WebSite</a>
           </div>
           <div class="columna">
-             <h2>Table Four</h2>
+             <h2>MegaPlayer App</h2>
              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et soluta
              molestiae enim</p>
              <h2>Skyll:</h2>
-             <img src="https://images.unsplash.com/photo-1572177812156-58036aae439c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cHJvamVjdHN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt=""/>  
-             <a  class="btn" href="#GIthub">Github</a>
+             <img src={Mp} alt=""/>  
+             <a  class="btn" href="https://github.com/barbaroreyes/app-m-player/tree/main">Github</a>
              <hr/>
-             <a  class="btn" href="#E">WebSite</a>             
+             <a  class="btn" href="=https://main.d1t4o2etqu2abr.amplifyapp.com/">WebSite</a>             
           </div>
       </section>
      </div>
