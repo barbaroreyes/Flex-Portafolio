@@ -3,6 +3,7 @@ import './project.css';
 import Robots from '../img/robots.png';
 import Ecom from '../img/ecomerce.png';
 import Logo from '../img/logo192.png'
+import Dog from '../img/do.png';
 
 function project() {
      return (
@@ -30,14 +31,13 @@ function project() {
                   <a  class="btn" href="https://hungry-einstein-27344a.netlify.app/">WebSite</a>
           </div>
           <div class="columna">
-                 <h2>Table Three</h2>
-                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                 Et soluta molestiae enim</p>
-                <h2>Skyll:</h2>
-                <img src="https://images.unsplash.com/photo-1572177812156-58036aae439c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cHJvamVjdHN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt=""/>
-                <a class="btn" href="#GIthub">Github</a>
+                 <h2>Dog App</h2>
+                 <p>You can Added you favorite Pet</p>
+                <h2>Skyll:React Heroku MongoDB/</h2>
+                <img src={Dog} alt=""/>
+                <a class="btn" href="https://github.com/barbaroreyes/dogs-app-frontend/tree/main">Github</a>
                 <hr/>
-               start <a  class="btn" href="#WEbsite">WebSite</a>
+               start <a  class="btn" href="https://main.d20zwbvpcwy8fb.amplifyapp.com/">WebSite</a>
           </div>
           <div class="columna">
              <h2>Table Four</h2>
