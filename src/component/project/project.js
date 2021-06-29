@@ -42,8 +42,7 @@ function project() {
           </div>
           <div class="columna">
              <h2>MegaPlayer App</h2>
-             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et soluta
-             molestiae enim</p>
+             <p>App to wacht you favorites movies </p>
              <h2>Skyll:</h2>
              <img src={Mp} alt=""/>  
              <a  class="btn" href="https://github.com/barbaroreyes/app-m-player/tree/main">Github</a>
