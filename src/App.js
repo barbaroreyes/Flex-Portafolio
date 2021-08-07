@@ -4,7 +4,7 @@ import  Main from './component/2-Sections/compo2';
 import Project from './component/project/project';
 import About from './component/about/about';
 import Contact from './component/contact/contact'
-
+import {Switch,Route} from 'react-router-dom'
 
 
 
@@ -12,12 +12,22 @@ import Contact from './component/contact/contact'
 function App() {
   return (
     <div className="container">
-      
-      <Header/>
-      <Main/>
-      <About/>
-      <Project/>
+      <Switch>
+        <Route exact path ='/'>
+        <Header/>
+        <Main/>
+        </Route>
+         <Route exact path ='/about'>
+         <About/>
+         </Route>
+         <Route exact path ='/projects'>
+         <Project/>
+         </Route>
+      <Route exact path ='/contact'>
       <Contact/>
+      </Route>
+      </Switch>
+      
       </div>
   );
 }
