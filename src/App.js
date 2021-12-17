@@ -13,8 +13,9 @@ function App() {
   return (
     <div className="container">
       <Switch>
+      <Header/>
         <Route exact path ='/'>
-        <Header/>
+       
         <Main/>
         </Route>
          <Route exact path ='/about'>
